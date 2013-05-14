@@ -1,4 +1,4 @@
 randTest
 ========
 
-Python 2.7 program that tests how often random output from the random module is repeated. It also compares iterative and recursive implementations of itself.
+Python 3.3 program that tests how often output from the random module is repeated. There is a recursive and iterative implementation of the algorithm. While performing the tests it also times both implementations for comparison.
